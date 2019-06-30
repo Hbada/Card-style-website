@@ -1,5 +1,5 @@
 {
-  "name": "pokedex",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
-  "homepage": "http://Hbada.github.io/Card-style-website",
+  "homepage": "http://Hbada.github.io/Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
