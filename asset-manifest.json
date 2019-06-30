@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Card-style-website/static/css/main.d06f79c7.chunk.css",
+    "main.js": "/Card-style-website/static/js/main.30e2cf58.chunk.js",
+    "main.js.map": "/Card-style-website/static/js/main.30e2cf58.chunk.js.map",
+    "runtime~main.js": "/Card-style-website/static/js/runtime~main.d09eb6ec.js",
+    "runtime~main.js.map": "/Card-style-website/static/js/runtime~main.d09eb6ec.js.map",
+    "static/js/2.6408f43b.chunk.js": "/Card-style-website/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/Card-style-website/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/Card-style-website/index.html",
+    "precache-manifest.c03e04dcc9a7d9aa5b6ac5d5197a8663.js": "/Card-style-website/precache-manifest.c03e04dcc9a7d9aa5b6ac5d5197a8663.js",
+    "service-worker.js": "/Card-style-website/service-worker.js",
+    "static/css/main.d06f79c7.chunk.css.map": "/Card-style-website/static/css/main.d06f79c7.chunk.css.map"
+  }
+}
