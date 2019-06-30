@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d06f79c7.chunk.css",
-    "main.js": "/Portfolio/static/js/main.595b984e.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.595b984e.chunk.js.map",
-    "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
-    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
-    "static/js/2.6408f43b.chunk.js": "/Portfolio/static/js/2.6408f43b.chunk.js",
-    "static/js/2.6408f43b.chunk.js.map": "/Portfolio/static/js/2.6408f43b.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.b6cb80c2e8cb9057f7422713cb99070f.js": "/Portfolio/precache-manifest.b6cb80c2e8cb9057f7422713cb99070f.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.d06f79c7.chunk.css.map": "/Portfolio/static/css/main.d06f79c7.chunk.css.map"
+    "main.css": "/Card-style-website/static/css/main.d06f79c7.chunk.css",
+    "main.js": "/Card-style-website/static/js/main.7be4044a.chunk.js",
+    "main.js.map": "/Card-style-website/static/js/main.7be4044a.chunk.js.map",
+    "runtime~main.js": "/Card-style-website/static/js/runtime~main.d09eb6ec.js",
+    "runtime~main.js.map": "/Card-style-website/static/js/runtime~main.d09eb6ec.js.map",
+    "static/js/2.6408f43b.chunk.js": "/Card-style-website/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/Card-style-website/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/Card-style-website/index.html",
+    "precache-manifest.dd01d112a0ee34bef745b3bf686f5ca6.js": "/Card-style-website/precache-manifest.dd01d112a0ee34bef745b3bf686f5ca6.js",
+    "service-worker.js": "/Card-style-website/service-worker.js",
+    "static/css/main.d06f79c7.chunk.css.map": "/Card-style-website/static/css/main.d06f79c7.chunk.css.map"
   }
 }
